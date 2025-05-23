@@ -1,6 +1,6 @@
 # 🔌 ADO.NET Connected CRUD Implementation
 
-![Application Screenshot](./docs/screenshot.png)
+![Application Screenshot](docs/Screenshott.png)
 
 A professional implementation of ADO.NET's connected architecture demonstrating real-time database operations.
 
